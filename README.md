@@ -1,2 +1,2 @@
 # practicagithub
-Repositoria practicas para github
+Repositorio para practicas en github
